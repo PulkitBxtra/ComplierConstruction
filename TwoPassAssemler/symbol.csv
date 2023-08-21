@@ -1,0 +1,13 @@
+Name,Type,Location,Size,SectionID,IsGlobal
+START,label,0,-1,1,false
+10,var,5,8,1,false
+20,var,13,8,1,false
+R1,,var,21,4,1,false
+END,var,25,4,1,false
+data,var,29,4,1,false
+0,var,33,4,1,false
+0,var,37,4,1,false
+0,var,41,4,1,false
+.extern,var,45,4,1,false
+START,var,49,4,1,false
+sec,var,53,4,1,false

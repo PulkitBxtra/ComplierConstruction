@@ -1,0 +1,13 @@
+Id,Kind,Location,Size,SectionId,IsGlobal
+section,var,0,4,0,f
+10,var,9,8,0,f
+20,var,17,8,0,f
+R1,,var,25,4,0,f
+END,var,29,4,0,f
+data,var,33,4,0,f
+0,var,37,4,0,f
+0,var,41,4,0,f
+0,var,45,4,0,f
+.extern,var,49,4,0,f
+START,var,53,4,0,f
+END,lbl,57,-1,1,f
